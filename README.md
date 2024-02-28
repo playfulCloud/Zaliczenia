@@ -2,21 +2,21 @@
 6 sem - terminy zaliczeń 
 
 
-##  0. Dobre praktyki programowania 
+##  1. Dobre praktyki programowania 
 ### Lab - 
 ### Wykład - 
 
-## 0. Administrowanie sieciowymi systemami opearcyjnymi
+## 2. Administrowanie sieciowymi systemami opearcyjnymi
 ### Lab - 
 ### Wykład - 
 
-## 0. Programowanie w języku Java - techniki zaawansowane
+## 3. Programowanie w języku Java - techniki zaawansowane
 ### Lab - 
 ### Wykład - 
 
 
-## 0. Bezpieczeństwo systemów i usług informatycznych 
+## 4. Bezpieczeństwo systemów i usług informatycznych 
 ### Wykład - 
 
-## 0. UCISW 
+## 5. UCISW 
 ### Wykład - 
