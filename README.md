@@ -5,7 +5,7 @@
 ##  1. Dobre praktyki programowania 
 ### Źródła - escience - materały do zajęć - dokładny link wkrótece 
 ### Lab - 
-### Wykład - 
+### Wykład - Ostatnie zajęcia  
 
 ## 2. Administrowanie sieciowymi systemami opearcyjnymi
 ### Lab - 
