@@ -1,5 +1,6 @@
 # Zaliczenia
 6 sem - terminy zaliczeń 
+Konsultacje: 
 
 
 ##  1. Dobre praktyki programowania 
