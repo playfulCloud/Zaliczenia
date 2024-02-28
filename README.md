@@ -3,6 +3,7 @@
 
 
 ##  1. Dobre praktyki programowania 
+### Źródła - escience - materały do zajęć - dokładny link wkrótece 
 ### Lab - 
 ### Wykład - 
 
