@@ -21,7 +21,7 @@ podkreślił, że da się zaliczyć tylko z prezentacji ale i tak połowa ma za
 
 
 ## 4. Bezpieczeństwo systemów i usług informatycznych 
-### Wykład - 
+### Wykład - testownik 19 czerwca
 
 ## 5. UCISW 
 ### Wykład - 
